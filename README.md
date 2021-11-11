@@ -1,2 +1,2 @@
 Python
-Репозиторий с Практическими Заданиями по курсу Python Basic
+Krashchenko Portfolio
