@@ -1,0 +1,6 @@
+Walmart LLC 10000 5000
+Amazon Partnership 20000 30000
+Apple LLC 30000 15000
+McKesson Partnership 30000 40000
+Exxon_Mobil Corporation 40000 10000
+CVS_Health Corporation 50000 5000

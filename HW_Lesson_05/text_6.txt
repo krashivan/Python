@@ -1,0 +1,3 @@
+Computer_science: 120(lec) 50(sem) 20(lab)
+Physics: 30(lec) - 15(lab)
+Physical_Education: - - -

@@ -1,0 +1,10 @@
+Williams 23543.12
+Peters 13749.32
+Gibson 25896.78
+Martin 10000.00
+Jordan 45000.78
+Jackson 9230.41
+Grant 89000.00
+Davis 6596.45
+Morgan 78541.00
+Campbell 410.10
